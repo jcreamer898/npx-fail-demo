@@ -1,0 +1,7 @@
+{
+  "name": "example-npx-failure",
+  "private": "true",
+  "workspaces": [
+    "packages/*"
+  ]
+}
